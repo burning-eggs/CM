@@ -1,0 +1,43 @@
+{
+  "type": "masterfulmachinery:machine_structure",
+  "id": "steam_engine",
+  "controllerId": "steam_engine",
+  "name": "Steam Engine",
+  "layout": [
+    [
+      ")))))",
+      ")))))",
+      ")))))"
+    ],
+    [
+      "))*))",
+      ")+,-C",
+      ")).))"
+    ],
+    [
+      ")))))",
+      ")))))",
+      ")))))"
+    ]
+  ],
+  "legend": {
+    ")": {
+      "block": "create:copper_casing"
+    },
+    "*": {
+      "block": "masterfulmachinery:steam_engine_steam_port_fluids_input"
+    },
+    "+": {
+      "block": "immersiveengineering:heavy_engineering"
+    },
+    ",": {
+      "block": "immersiveengineering:rs_engineering"
+    },
+    "-": {
+      "block": "immersiveengineering:generator"
+    },
+    ".": {
+      "block": "masterfulmachinery:steam_engine_energy_port_energy_output"
+    }
+  }
+}
