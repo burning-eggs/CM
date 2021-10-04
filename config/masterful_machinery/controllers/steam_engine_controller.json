@@ -1,0 +1,22 @@
+{
+    "controllerId": "steam_engine",
+    "name": "Steam Engine",
+    "ports": [
+        {
+            "type": "masterfulmachinery:fluids",
+            "name": "Steam",
+            "id": "steam_steam",
+            "data": {
+                "capacity": 600
+            }
+        },
+        {
+            "type": "masterfulmachinery:energy",
+            "name": "Energy",
+            "id": "steam_energy",
+            "data": {
+                "capacity": 900
+            }
+        }
+    ]
+}
