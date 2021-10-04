@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "masterfulmachinery:block/steam_engine_steam_energy_port_energy_input"
+    }
+  }
+}

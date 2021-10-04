@@ -1,7 +1,13 @@
 {
   "block.masterfulmachinery.projector": "Structure Projector",
+  "block.masterfulmachinery.steam_engine_controller": "Steam Engine Controller",
+  "block.masterfulmachinery.steam_engine_steam_energy_port_energy_input": "Steam Engine - Energy Input Port",
+  "block.masterfulmachinery.steam_engine_steam_energy_port_energy_output": "Steam Engine - Energy Output Port",
+  "block.masterfulmachinery.steam_engine_steam_steam_port_fluids_input": "Steam Engine - Steam Input Port",
+  "block.masterfulmachinery.steam_engine_steam_steam_port_fluids_output": "Steam Engine - Steam Output Port",
   "block.masterfulmachinery.structure_generator": "Structure Generator",
   "container.masterfulmachinery.create_rotation": "Rotation Port",
+  "container.masterfulmachinery.steam_engine_controller.name": "Steam Engine Controller",
   "item.masterfulmachinery.blueprint": "Blueprint",
   "item.masterfulmachinery.structure_gen_device": "Structure Selector",
   "itemGroup.masterfulmachinery": "Masterful Machinery"
